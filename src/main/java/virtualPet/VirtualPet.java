@@ -60,5 +60,4 @@ public class VirtualPet {
 		hunger = hunger + 2;
 		optimism = optimism - 2;
 	}
-
 }

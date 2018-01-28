@@ -72,5 +72,4 @@ public class VirtualPetApp {
 			myPet.tick();
 		}
 	}
-
 }
