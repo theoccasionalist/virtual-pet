@@ -50,7 +50,7 @@ public class VirtualPet {
 	}
 
 	public void printStats() {
-		System.out.println("\nTime has passed. Stats are now:" + "\n\nMalaise: " + malaise + "\nPoop: " + poop
+		System.out.println("\nTime creeps by. Stats are now:" + "\n\nMalaise: " + malaise + "\nPoop: " + poop
 				+ "\nHunger: " + hunger + "\nOptimism: " + optimism + "\n");
 	}
 

@@ -21,7 +21,6 @@ public class VirtualPetApp {
 
 		while (true) {
 
-			System.out.println();
 			System.out.println("\nPlease choose one of the following: ");
 
 			System.out.println("1. Talk Therapy");
@@ -42,7 +41,7 @@ public class VirtualPetApp {
 
 			if (enteredAction.trim().contains("2")) {
 				myPet.petPoop();
-				System.out.println("\n" + petName + " releived itself in private.\n");
+				System.out.println("\n" + petName + " relieved itself in private.\n");
 				System.out.println("Poop down one.");
 				System.out.println("Hunger up one.");
 				myPet.printStats();
@@ -59,13 +58,13 @@ public class VirtualPetApp {
 			if (enteredAction.trim().contains("4")) {
 				myPet.petMingle();
 				System.out.println("\n" + petName + " attended Columbus pet mingle.\n");
-				System.out.println("Malaise down one.");
-				System.out.println("Optimism up one.");
+				System.out.println("Malaise up one.");
+				System.out.println("Optimism down one.");
 				myPet.printStats();
 			}
 
 			if (enteredAction.trim().contains("5")) {
-				System.out.println("\nPet abandoned.\nToday " + petName + " has learned the true meaning of love.");
+				System.out.println("\nPet abandoned.\nToday " + petName + " learned the true meaning of love.");
 				System.exit(0);
 			}
 
