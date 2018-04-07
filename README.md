@@ -1,6 +1,6 @@
 # Virtual Pet (Iteration One)
 ## Tomogatchi style console game
-### Tech specifics:
+### Tech specs:
 <ul>
 <li>Class creation</li>
 <li>Single class and multi class methods</li>
