@@ -1,5 +1,5 @@
 # Virtual Pet
-## Tomogatchi style console game.
+## Tomogatchi style console game
 ### Tech specifics:
 <ul>
 <li>Class creation</li>
