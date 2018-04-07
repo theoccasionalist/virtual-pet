@@ -1,4 +1,4 @@
-# Virtual Pet
+# Virtual Pet (Iteration One)
 ## Tomogatchi style console game
 ### Tech specifics:
 <ul>
