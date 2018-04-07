@@ -8,4 +8,4 @@
 <li>Test driven development using JUnit</li>  
 </ul>
 
-![virtual-pet](https://user-images.githubusercontent.com/28411165/38459105-a36c94a0-3a73-11e8-9fbf-f0a1eaba2a67.jpg)
+![virtual-pet](https://user-images.githubusercontent.com/28411165/38459999-808d4c20-3a7f-11e8-965a-57340093d775.jpg)
